@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning Xiangqi Player with Monte Carlo Tree Search (DRL-Xiangqi-MCTS)
+# Deep Reinforcement Learning Xiangqi Player with Monte Carlo Tree Search
 
 This project implements a Deep Reinforcement Learning (DRL) system for **Xiangqi (Chinese Chess)**, integrating **policy-value neural networks** with **Monte Carlo Tree Search (MCTS)** to enable self-play training, strategy learning, and real-time inference in a high-branching-factor, asymmetric, domain-specific environment.
 
